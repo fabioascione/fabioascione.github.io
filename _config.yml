@@ -4,5 +4,6 @@ plugins:
 
 header_pages:
   - research.md
+  - teaching.md
 
 
