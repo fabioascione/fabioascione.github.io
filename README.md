@@ -1,3 +1,1 @@
 # Fabio Ascione
-
-## Research
