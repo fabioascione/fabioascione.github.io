@@ -3,6 +3,7 @@ layout: home
 title: Home
 ---
 
+# Fabio Ascione
 
 I am an economist at the [Potsdam-Institute for Climate Impact Research (PIK)](https://www.pik-potsdam.de/), specializing in the intersection of environmental economics, international economics, and inequality research. My work emphasizes quantitative empirical methods, including modern data analysis, econometrics, and input-output analysis.
 
