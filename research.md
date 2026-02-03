@@ -6,19 +6,19 @@ title: Research
 
 ### Working papers
 
-#### **Vertical integration and patterns of divergence in European industries: A long-term input–output analysis**
+#### Vertical integration and patterns of divergence in European industries: A long-term input–output analysis
 - joint with Maria Enrica Virgillito
 - <button onclick="toggleAbstract('abstract2')">**Abstract**</button>
   <div id="abstract2" style="display: none;">
 Against theories that recognize the gains from trade liberalization, this paper asks whether, and if so what extent, economic integration as directly measured through vertically integrated value-added has increased or reduced convergence among European industries. We draw upon new input-output tables and sectoral divergence measures in labor productivity and wages for 14 European countries and 19 sectors since 1970. According to our findings, higher vertical integration has fostered divergence rather than convergence within industries. Lock-in effects coupled with feedback loops and increasing returns are potential mechanisms to explain why the fruits of rising vertical integration are shared unequally within sectors.</div>
 
-#### **A helping hand from abroad? Imported intermediate inputs and corporate saving in three European countries**
+#### A helping hand from abroad? Imported intermediate inputs and corporate saving in three European countries
 - <button onclick="toggleAbstract('abstract3')">**Abstract**</button>
   <div id="abstract3" style="display: none;">
 Rising corporate saving has figured prominently in the debate about economic inequality and the emergence of global imbalances, even though we know little about the determinants of this dramatic trend. This paper aims to contribute to the understanding of corporate saving by highlighting the role of intermediate input imports from non-financial industries in Austria, Germany, and the Netherlands from 2000–2014. Combining comprehensive firm- and industry-level data, I find robust evidence to suggest that expanded access to foreign intermediates has significantly contributed to the rise in corporate saving. The effects are largely driven by rising imports from Eastern Europe and China and are more pronounced among larger firms. Declines in the domestic capital stock, coupled with limited pass-through of lower import costs and rent capture in global value chains are potential mechanisms to explain why savings are not reinvested proportionately within firms.</div>
 
 
-#### **Density, Not Income, Predicts Housing Energy Emission Intensity in Europe**
+#### Density, Not Income, Predicts Housing Energy Emission Intensity in Europe
 - joint with Ingram Jaccard, Peter-Paul Pichler, Benedikt Bruckner 
 - <button onclick="toggleAbstract('abstract4')">**Abstract**</button>
   <div id="abstract4" style="display: none;">
@@ -27,7 +27,7 @@ Limiting climate change while securing decent living standards for all requires 
 
 ### Publications
 
-#### **Out of balance? Revisiting the nexus of income inequality, household debt and current account imbalances after the Great Recession**
+#### Out of balance? Revisiting the nexus of income inequality, household debt and current account imbalances after the Great Recession
 - joint with Matthias Schnetzer
 - Cambridge Journal of Economics, 2022
 - <button onclick="toggleAbstract('abstract1')">**Abstract**</button>
@@ -37,10 +37,10 @@ Rising current account imbalances around the globe preceded the Great Recession 
 
 ### Policy research
 
-#### **Ungleich starke Fäden: Die Verflechtung der europäischen Großkonzerne**, WZB Mitteilungen - Europa, 2023.
-#### **Mapping Investment Promotion Agencies in Eastern Europe, the South Caucasus and Central Asia**, OECD Publishing, 2020.
-#### **Investment Perspectives in Eastern Partner Countries**, OECD Publishing, 2020.
-#### **Consumption equation for the new model**, Backgrounddocument CPB, mimeo, 2019.
+#### Ungleich starke Fäden: Die Verflechtung der europäischen Großkonzerne, WZB Mitteilungen - Europa, 2023.
+#### Mapping Investment Promotion Agencies in Eastern Europe, the South Caucasus and Central Asia, OECD Publishing, 2020.
+#### Investment Perspectives in Eastern Partner Countries, OECD Publishing, 2020.
+#### Consumption equation for the new model, Backgrounddocument CPB, mimeo, 2019.
 
 
 
@@ -55,7 +55,7 @@ Rising current account imbalances around the globe preceded the Great Recession 
       button.textContent = "Hide Abstract";
     } else {
       abstract.style.display = "none";
-      button.textContent = "Show Abstract";
+      button.textContent = "Abstract";
     }
   }
 </script>
