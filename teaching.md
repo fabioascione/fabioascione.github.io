@@ -3,7 +3,7 @@ layout: default
 title: Teaching
 ---
 
-# Teaching
+## Teaching
 
 - **European economy and economic policies** (2022), Undergraduate course, Economics, Paris 1 Pantheon Sorbonne University
  
