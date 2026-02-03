@@ -17,7 +17,6 @@ Against theories that recognize the gains from trade liberalization, this paper 
 Rising corporate saving has figured prominently in the debate about economic inequality and the emergence of global imbalances, even though we know little about the determinants of this dramatic trend. This paper aims to contribute to the understanding of corporate saving by highlighting the role of intermediate input imports from non-financial industries in Austria, Germany, and the Netherlands from 2000–2014. Combining comprehensive firm- and industry-level data, I find robust evidence to suggest that expanded access to foreign intermediates has significantly contributed to the rise in corporate saving. The effects are largely driven by rising imports from Eastern Europe and China and are more pronounced among larger firms. Declines in the domestic capital stock, coupled with limited pass-through of lower import costs and rent capture in global value chains are potential mechanisms to explain why savings are not reinvested proportionately within firms.
 </div>
 
-
 - <span onclick="toggleAbstract('abstract3')" style="cursor: pointer;">▶ Density, Not Income, Predicts Housing Energy Emission Intensity in Europe</span>
 *joint with Ingram Jaccard, Peter-Paul Pichler, Benedikt Bruckner* 
 <div id="abstract3" style="display: none; margin-left: 20px; margin-top: 10px;">
@@ -27,7 +26,6 @@ Limiting climate change while securing decent living standards for all requires 
 
 
 ### Publications
-
 
 - <span onclick="toggleAbstract('abstract4')" style="cursor: pointer;">▶ Out of balance? Revisiting the nexus of income inequality, household debt and current account imbalances after the Great Recession</span>
 *joint with Matthias Schnetzer*
