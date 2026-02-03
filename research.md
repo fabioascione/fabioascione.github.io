@@ -27,8 +27,8 @@ Against theories that recognize the gains from trade liberalization, this paper 
 
 #### **A helping hand from abroad? Imported intermediate inputs and corporate saving in three European countries**
 - **Abstract:**
-  <button onclick="toggleAbstract('abstract2')">Show Abstract</button>
-  <div id="abstract2" style="display: none;">
+  <button onclick="toggleAbstract('abstract3')">Show Abstract</button>
+  <div id="abstract3" style="display: none;">
 Rising corporate saving has figured prominently in the debate about economic inequality and the emergence of global imbalances, even though we know little about the determinants of this dramatic trend. This paper aims to contribute to the understanding of corporate saving by highlighting the role of intermediate input imports from non-financial industries in Austria, Germany, and the Netherlands from 2000–2014. Combining comprehensive firm- and industry-level data, I find robust evidence to suggest that expanded access to foreign intermediates has significantly contributed to the rise in corporate saving. The effects are largely driven by rising imports from Eastern Europe and China and are more pronounced among larger firms. Declines in the domestic capital stock, coupled with limited pass-through of lower import costs and rent capture in global value chains are potential mechanisms to explain why savings are not reinvested proportionately within firms.
   </div>
 
@@ -36,15 +36,18 @@ Rising corporate saving has figured prominently in the debate about economic ine
 #### **Density, Not Income, Predicts Housing Energy Emission Intensity in Europe**
 - **Authors:** joint with Ingram Jaccard, Peter-Paul Pichler, Benedikt Bruckner 
 - **Abstract:**
-  <button onclick="toggleAbstract('abstract2')">Show Abstract</button>
-  <div id="abstract2" style="display: none;">
+  <button onclick="toggleAbstract('abstract4')">Show Abstract</button>
+  <div id="abstract4" style="display: none;">
 Limiting climate change while securing decent living standards for all requires transforming energy systems and redistributing access to low-carbon energy. Debates about whether such redistribution undermines mitigation often assume that poorer households have higher carbon intensities for basic needs such as housing energy than wealthier groups. However, existing evidence relies mainly on aggregated household carbon footprint data that collapse different energy carriers and heating technologies into broad categories, obscuring which households use high- versus low-carbon energy and how income effects interact with settlement patterns. Here we show that across Europe, settlement density, rather than household income, is the primary determinant of housing energy emission intensity. We use disaggregated household expenditure data for 2010-2020 in 23 European countries, linking spending on electricity and heating to energy balances and greenhouse gas inventories to estimate housing energy carbon intensity by income group and settlement density. We find substantial cross-country variation in the apparent relationship between income and housing emission intensity, including both positive and negative slopes, but in almost all countries urban areas have higher intensities than rural areas. When income and settlement density are modelled jointly within countries, density becomes the stronger predictor and income effects become statistically insignificant, so observed income-intensity patterns mainly reflect spatial income sorting between urban and rural areas rather than income itself. This pattern persists under alternative accounting conventions for biomass, and housing energy intensities are generally comparable to or lower than overall household consumption intensities. These findings alleviate concerns that meeting basic housing energy needs for poorer households must mechanically increase emissions. They shift the policy focus toward how governance allocates scarce low-carbon infrastructure, prioritizing basic needs and reducing energy poverty while phasing out fossil fuel use.
 </div>
 
 
 ### Policy research
 
-
+#### **Ungleich starke Fäden: Die Verflechtung der europäischen Großkonzerne**, WZB Mitteilungen - Europa, 2023.
+#### **Mapping Investment Promotion Agencies in Eastern Europe, the South Caucasus and Central Asia**, OECD Publishing, 2020.
+#### **Investment Perspectives in Eastern Partner Countries**, OECD Publishing, 2020.
+#### **Consumption equation for the new model**, Backgrounddocument CPB, mimeo, 2019.
 
 
 
