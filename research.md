@@ -6,7 +6,7 @@ title: Research
 
 ### Working papers
 
-- <span onclick="toggleAbstract('abstract2')" style="cursor: pointer;">▶ Your Paper Title Here</span>
+<span onclick="toggleAbstract('abstract2')" style="cursor: pointer;">▶ Your Paper Title Here</span>
 <div id="abstract2" style="display: none; margin-left: 20px; margin-top: 10px;">
 Your abstract text here
 </div>
