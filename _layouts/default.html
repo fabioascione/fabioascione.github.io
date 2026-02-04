@@ -36,11 +36,11 @@
 <p style="font-weight: bold;">Language:</p>
 <ul>
   {% if page.lang == "de" %}
-    <li><a href="{{ page.url | remove: '_de' | relative_url }}">English</a></li>
+    <li><a href="{{ page.url | remove: '_de.html' | append: '.html' | relative_url }}">English</a></li>
     <li><strong>Deutsch</strong></li>
   {% else %}
     <li><strong>English</strong></li>
-    <li><a href="{{ page.url | replace: '.html', '_de.html' | relative_url }}">Deutsch</a></li>
+    <li><a href="{{ page.url | remove: '.html' | append: '_de.html' | relative_url }}">Deutsch</a></li>
   {% endif %}
 </ul>
 
