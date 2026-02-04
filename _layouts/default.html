@@ -1,16 +1,16 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-{% seo %}
-  <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
-  <link rel="stylesheet" href="{{ "/assets/css/custom.css" | relative_url }}">
-  <!--[if lt IE 9]>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
-  <![endif]-->
-</head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    {% seo %}
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" href="{{ "/assets/css/custom.css" | relative_url }}">
+    <!--[if lt IE 9]>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
+  </head>
   <body>
     <div class="wrapper">
       <header>
@@ -22,47 +22,49 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
-       
-       <!-- Navigation -->
-<nav>
-  <ul>
-    {% if page.lang == "de" %}
-      <li><a href="{{ "/index_de" | relative_url }}">Home</a></li>
-      <li><a href="{{ "/research_de" | relative_url }}">Forschung</a></li>
-      <li><a href="{{ "/teaching_de" | relative_url }}">Lehre</a></li>
-    {% else %}
-      <li><a href="{{ "/" | relative_url }}">Home</a></li>
-      <li><a href="{{ "/research" | relative_url }}">Research</a></li>
-      <li><a href="{{ "/teaching" | relative_url }}">Teaching</a></li>
-    {% endif %}
-  </ul>
-</nav>
+        <!-- Sidebar -->
+        <div id="sidebar">
+          <!-- Navigation -->
+          <nav>
+            <ul>
+              {% if page.lang == "de" %}
+                <li><a href="{{ "/index_de" | relative_url }}">Home</a></li>
+                <li><a href="{{ "/research_de" | relative_url }}">Forschung</a></li>
+                <li><a href="{{ "/teaching_de" | relative_url }}">Lehre</a></li>
+              {% else %}
+                <li><a href="{{ "/" | relative_url }}">Home</a></li>
+                <li><a href="{{ "/research" | relative_url }}">Research</a></li>
+                <li><a href="{{ "/teaching" | relative_url }}">Teaching</a></li>
+              {% endif %}
+            </ul>
+          </nav>
 
- <!-- Language Switcher -->
-<hr style="margin: 20px 0;">
-<ul>
-  {% if page.lang == "de" %}
-    {% if page.url contains "index_de" %}
-      <li><a href="{{ "/" | relative_url }}">English</a></li>
-    {% else %}
-      <li><a href="{{ page.url | remove: '_de.html' | append: '.html' | relative_url }}">English</a></li>
-    {% endif %}
-    <li><strong>Deutsch</strong></li>
-  {% else %}
-    <li><strong>English</strong></li>
-    {% if page.url == "/" or page.url == "/index.html" %}
-      <li><a href="{{ "/index_de.html" | relative_url }}">Deutsch</a></li>
-    {% else %}
-      <li><a href="{{ page.url | remove: '.html' | append: '_de.html' | relative_url }}">Deutsch</a></li>
-    {% endif %}
-  {% endif %}
-</ul>
+          <!-- Language Switcher -->
+          <hr style="margin: 20px 0;">
+          <ul>
+            {% if page.lang == "de" %}
+              {% if page.url contains "index_de" %}
+                <li><a href="{{ "/" | relative_url }}">English</a></li>
+              {% else %}
+                <li><a href="{{ page.url | remove: '_de.html' | append: '.html' | relative_url }}">English</a></li>
+              {% endif %}
+              <li><strong>Deutsch</strong></li>
+            {% else %}
+              <li><strong>English</strong></li>
+              {% if page.url == "/" or page.url == "/index.html" %}
+                <li><a href="{{ "/index_de.html" | relative_url }}">Deutsch</a></li>
+              {% else %}
+                <li><a href="{{ page.url | remove: '.html' | append: '_de.html' | relative_url }}">Deutsch</a></li>
+              {% endif %}
+            {% endif %}
+          </ul>
 
+          <!-- Your image at the bottom of the sidebar -->
+          <img src="pic.jpg" alt="Small Image" width="100" style="display: block; margin-top: 10px;">
+        </div>
       </header>
       <section>
-
-      {{ content }}
-
+        {{ content }}
       </section>
       <footer>
         <p><small>Hosted on GitHub Pages</small></p>
