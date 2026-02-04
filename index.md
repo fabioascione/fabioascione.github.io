@@ -14,6 +14,4 @@ My current research focuses on the following areas:
 - Socio-ecological trade-offs
 
 
-<img src="pic.jpg" alt="Small Image" width="400">
-
 
