@@ -22,14 +22,20 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
-        <!-- Navigation -->
-        <nav>
-          <ul>
-            <li><a href="{{ "/" | relative_url }}">Home</a></li>
-            <li><a href="{{ "/research" | relative_url }}">Research</a></li>
-            <li><a href="{{ "/teaching" | relative_url }}">Teaching</a></li>
-          </ul>
-        </nav>
+       <!-- Navigation -->
+<nav>
+  <ul>
+    {% if page.lang == "de" %}
+      <li><a href="{{ "/index_de" | relative_url }}">Home</a></li>
+      <li><a href="{{ "/research_de" | relative_url }}">Forschung</a></li>
+      <li><a href="{{ "/teaching_de" | relative_url }}">Lehre</a></li>
+    {% else %}
+      <li><a href="{{ "/" | relative_url }}">Home</a></li>
+      <li><a href="{{ "/research" | relative_url }}">Research</a></li>
+      <li><a href="{{ "/teaching" | relative_url }}">Teaching</a></li>
+    {% endif %}
+  </ul>
+</nav>
 
   <!-- Language Switcher -->
 <hr style="margin: 20px 0;">
