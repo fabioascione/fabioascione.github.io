@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Home
+lang: de
 ---
 
 # Fabio Ascione
