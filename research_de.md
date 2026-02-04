@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Research
+title: Forschung
 lang: de
 ---
 
