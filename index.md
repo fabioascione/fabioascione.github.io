@@ -12,3 +12,7 @@ My current research focuses on the following areas:
 - Industry divergence and economic integration
 - Decarbonization dynamics of firms
 - Socio-ecological trade-offs
+
+
+<img src="pic.jpg" alt="Small Image" width="100" height="100">
+
