@@ -28,11 +28,11 @@
 <nav>
   <ul>
     {% if page.lang == "de" %}
-      <li>{% if page.url == "/index_de.html" or page.url == "/index_de" %}<strong>Home</strong>{% else %}<a href="{{ "/index_de" | relative_url }}">Home</a>{% endif %}</li>
+      <li>{% if page.url == "/index_de.html" or page.url == "/index_de" %}<strong>Über mich</strong>{% else %}<a href="{{ "/index_de" | relative_url }}">Über mich</a>{% endif %}</li>
       <li>{% if page.url contains "research_de" %}<strong>Forschung</strong>{% else %}<a href="{{ "/research_de" | relative_url }}">Forschung</a>{% endif %}</li>
       <li>{% if page.url contains "teaching_de" %}<strong>Lehre</strong>{% else %}<a href="{{ "/teaching_de" | relative_url }}">Lehre</a>{% endif %}</li>
     {% else %}
-      <li>{% if page.url == "/" or page.url == "/index.html" %}<strong>Home</strong>{% else %}<a href="{{ "/" | relative_url }}">Home</a>{% endif %}</li>
+      <li>{% if page.url == "/" or page.url == "/index.html" %}<strong>About</strong>{% else %}<a href="{{ "/" | relative_url }}">About</a>{% endif %}</li>
       <li>{% if page.url contains "research" %}<strong>Research</strong>{% else %}<a href="{{ "/research" | relative_url }}">Research</a>{% endif %}</li>
       <li>{% if page.url contains "teaching" %}<strong>Teaching</strong>{% else %}<a href="{{ "/teaching" | relative_url }}">Teaching</a>{% endif %}</li>
     {% endif %}
