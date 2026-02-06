@@ -36,11 +36,13 @@ Rising current account imbalances around the globe preceded the Great Recession 
 
 ### Forschungsberichte
 
-<span ▶ Ungleich starke Fäden: Die Verflechtung der europäischen Großkonzerne, WZB Mitteilungen - Europa, 2023.</span>
-<span ▶ Mapping Investment Promotion Agencies in Eastern Europe, the South Caucasus and Central Asia, OECD Publishing, 2020.</span>
-<span ▶ Investment Perspectives in Eastern Partner Countries, OECD Publishing, 2020.</span>
-<span ▶ Consumption equation for the new model, Backgrounddocument CPB, mimeo, 2019.</span>
+▶ Ungleich starke Fäden: Die Verflechtung der europäischen Großkonzerne, WZB Mitteilungen - Europa, 2023.
 
+▶ Mapping Investment Promotion Agencies in Eastern Europe, the South Caucasus and Central Asia, OECD Publishing, 2020.
+
+▶ Investment Perspectives in Eastern Partner Countries, OECD Publishing, 2020.
+
+▶ Consumption equation for the new model, Backgrounddocument CPB, mimeo, 2019.
 
 
 <script>
