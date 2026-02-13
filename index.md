@@ -4,6 +4,9 @@ title: Home
 lang: en
 ---
 
+
+# Fabio Ascione
+
 ## About {#about}
 
 I am an economist at the [Potsdam-Institute for Climate Impact Research (PIK)](https://www.pik-potsdam.de/) with an interdisciplinary interest, specializing in the intersection of environmental, trade, and inequality research. I enjoy working with quantitative empirical methods, including modern data analysis, econometrics, and input-output analysis. I hold a PhD in Economics from [Paris 1 Panthéon-Sorbonne University](https://www.pantheonsorbonne.fr/) and have been a visiting scholar at the [Berlin Social Science Center (WZB)](https://wzb.eu/). Previously, I worked as a research associate at the [Netherlands Bureau for Economic Policy Analysis (CPB)](https://www.cpb.nl/) and as a Junior Policy Analyst at the [OECD](https://www.oecd.org/).
@@ -15,6 +18,8 @@ My current research focuses on the following areas:
 
 
 ---
+
+
 ## Research {#research}
 
 ### Working papers
@@ -33,8 +38,6 @@ Rising corporate saving has figured prominently in the debate about economic ine
 <div id="abstract3" style="display: none; margin-left: 20px; margin-top: 10px;">
 Limiting climate change while securing decent living standards for all requires transforming energy systems and redistributing access to low-carbon energy. Debates about whether such redistribution undermines mitigation often assume that poorer households have higher carbon intensities for basic needs such as housing energy than wealthier groups. However, existing evidence relies mainly on aggregated household carbon footprint data that collapse different energy carriers and heating technologies into broad categories, obscuring which households use high- versus low-carbon energy and how income effects interact with settlement patterns. Here we show that across Europe, settlement density, rather than household income, is the primary determinant of housing energy emission intensity. We use disaggregated household expenditure data for 2010-2020 in 23 European countries, linking spending on electricity and heating to energy balances and greenhouse gas inventories to estimate housing energy carbon intensity by income group and settlement density. We find substantial cross-country variation in the apparent relationship between income and housing emission intensity, including both positive and negative slopes, but in almost all countries urban areas have higher intensities than rural areas. When income and settlement density are modelled jointly within countries, density becomes the stronger predictor and income effects become statistically insignificant, so observed income-intensity patterns mainly reflect spatial income sorting between urban and rural areas rather than income itself. This pattern persists under alternative accounting conventions for biomass, and housing energy intensities are generally comparable to or lower than overall household consumption intensities. These findings alleviate concerns that meeting basic housing energy needs for poorer households must mechanically increase emissions. They shift the policy focus toward how governance allocates scarce low-carbon infrastructure, prioritizing basic needs and reducing energy poverty while phasing out fossil fuel use.</div>
 
-
-
 ### Publications
 
 <span onclick="toggleAbstract('abstract4')" style="cursor: pointer;">▶ Out of balance? Revisiting the nexus of income inequality, household debt and current account imbalances after the Great Recession</span>
@@ -47,7 +50,6 @@ Rising current account imbalances around the globe preceded the Great Recession 
 
 ### Policy research
 
-
 ▶ Ungleich starke Fäden: Die Verflechtung der europäischen Großkonzerne, WZB Mitteilungen - Europa, 2023.
 
 ▶ Mapping Investment Promotion Agencies in Eastern Europe, the South Caucasus and Central Asia, OECD Publishing, 2020.
@@ -58,11 +60,13 @@ Rising current account imbalances around the globe preceded the Great Recession 
 
 ---
 
+
 ## Teaching {#teaching}
 
 - **European economy and economic policies**, Bachelor in Economics, Paris 1 Pantheon Sorbonne University
  
 - **Microeconomics: Organizational theory and markets**, Bachelor in Economics, Paris 1 Pantheon Sorbonne University
+
 
 
 <script>
