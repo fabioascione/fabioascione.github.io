@@ -38,25 +38,17 @@
     {% endif %}
   </ul>
 </nav>
-            <!-- Language Switcher -->
-          <hr style="margin: 20px 0;">
-          <ul>
-            {% if page.lang == "de" %}
-              {% if page.url contains "index_de" %}
-                <li><a href="{{ "/" | relative_url }}">English</a></li>
-              {% else %}
-                <li><a href="{{ page.url | remove: '_de.html' | append: '.html' | relative_url }}">English</a></li>
-              {% endif %}
-              <li><strong>Deutsch</strong></li>
-            {% else %}
-              <li><strong>English</strong></li>
-              {% if page.url == "/" or page.url == "/index.html" %}
-                <li><a href="{{ "/index_de.html" | relative_url }}">Deutsch</a></li>
-              {% else %}
-                <li><a href="{{ page.url | remove: '.html' | append: '_de.html' | relative_url }}">Deutsch</a></li>
-              {% endif %}
-            {% endif %}
-          </ul>
+<!-- Language Switcher -->
+<hr style="margin: 20px 0;">
+<ul>
+  {% if page.lang == "de" %}
+    <li><a href="{{ "/" | relative_url }}">English</a></li>
+    <li><strong>Deutsch</strong></li>
+  {% else %}
+    <li><strong>English</strong></li>
+    <li><a href="{{ "/index_de" | relative_url }}">Deutsch</a></li>
+  {% endif %}
+</ul>
 
           <!-- Your image at the bottom of the sidebar -->
 <img
