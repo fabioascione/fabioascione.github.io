@@ -13,7 +13,7 @@ I am an economist at the [Potsdam-Institute for Climate Impact Research (PIK)](h
 
 My current research focuses on the following areas:
 - Industrial divergence in the context of globalization
-- Decarbonization dynamics along global value chains
+- Sectoral and cross-country distribution of energy use and greenhouse gas emissions
 - Socio-ecological trade-offs in the climate crisis
 
 
