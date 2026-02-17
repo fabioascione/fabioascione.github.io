@@ -13,7 +13,7 @@ Ich bin Ökonom am [Potsdam-Institut für Klimafolgenforschung (PIK)](https://ww
 
 Meine aktuellen Forschungsschwerpunkte sind:
 - Industrielle Divergenz im Kontext von Globalisierung
-- Dekarbonisierungsdynamik entlang globaler Wertschöpfungsketten
+- Sektorale und länderübergreifende Verteilung des Energieverbrauchs und der Treibhausgasemissionen
 - Sozioökologische Trade-offs in der Klimakrise
 
 ---
