@@ -43,6 +43,9 @@ Limiting climate change while securing decent living standards for all requires 
 <span onclick="toggleAbstract('abstract4')" style="cursor: pointer;">▶ Out of balance? Revisiting the nexus of income inequality, household debt and current account imbalances after the Great Recession</span>
 *joint with Matthias Schnetzer*
 *Cambridge Journal of Economics, 2022*
+<a href="https://doi.org/10.1093/cje/beab044" target="_blank">
+  📄
+</a>
 <div id="abstract4" style="display: none; margin-left: 20px; margin-top: 10px;">
 Rising current account imbalances around the globe preceded the Great Recession in the late 2000s. These imbalances narrowed significantly during the crisis mainly due to a negative demand shock and plummeting imports in deficit countries. While income inequality and household debt played a pivotal role in current account imbalances prior to the crisis, it is unclear whether these relations still hold when including the post-crisis era. We estimate current account determinants using a panel of 31 OECD countries over 45 years and include measures for functional and personal income distribution as well as household debt. We find a sustained relation between income inequality and current accounts when including the post-crisis period, while the link to household debt diminishes, indicating a change in the debt regime in a number of countries.
 </div>
@@ -50,9 +53,13 @@ Rising current account imbalances around the globe preceded the Great Recession 
 
 ### Forschungsberichte
 
-▶ Ungleich starke Fäden: Die Verflechtung der europäischen Großkonzerne, WZB Mitteilungen - Europa, 2023.
+▶ Ungleich starke Fäden: Die Verflechtung der europäischen Großkonzerne, WZB Mitteilungen - Europa, 2023. <a href="https://bibliothek.wzb.eu/artikel/2023/f-25359.pdf" target="_blank">
+  📄
+</a>
 
-▶ Mapping Investment Promotion Agencies in Eastern Europe, the South Caucasus and Central Asia, OECD Publishing, 2020.
+▶ Mapping Investment Promotion Agencies in Eastern Europe, the South Caucasus and Central Asia, OECD Publishing, 2020. <a href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2020/09/investment-promotion-in-eurasia_c59d04a4/8e76dbc2-en.pdf" target="_blank">
+  📄
+</a>
 
 ▶ Investment Perspectives in Eastern Partner Countries, OECD Publishing, 2020.
 
