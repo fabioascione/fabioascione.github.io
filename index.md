@@ -39,9 +39,9 @@ Limiting climate change while securing decent living standards for all requires 
 
 ### Publications
 
-<div class="publication-item">
-  <img src="/assets/images/cje_ca-imbalances.pdf" alt="Paper 4 figure" class="publication-image">
-  <div class="publication-content">
+  <object data="/assets/images/cje_ca-imbalances.pdf" type="application/pdf" width="100%" height="500px">
+    <p>Your browser does not support PDFs. <a href="/assets/images/yourfigure.pdf">Download the PDF</a> instead.</p>
+  </object>
     <span onclick="toggleAbstract('abstract4')" style="cursor: pointer;">▶ <strong>Out of balance? Revisiting the nexus of income inequality, household debt and current account imbalances after the Great Recession</strong></span> <a href="https://github.com/fabioascione/fabioascione.github.io/blob/main/pdf/cje.pdf" target="_blank" style="color: #0969da; margin-left: 10px; font-size: 0.9em;">[PDF]</a><br>
     *joint with Matthias Schnetzer*<br>
     <em>Cambridge Journal of Economics, 2022</em>
