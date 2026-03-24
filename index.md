@@ -50,8 +50,7 @@ Rising current account imbalances around the globe preceded the Great Recession 
 
 ▶ Ungleich starke Fäden: Die Verflechtung der europäischen Großkonzerne, WZB Mitteilungen - Europa, 2023. <a href="https://bibliothek.wzb.eu/artikel/2023/f-25359.pdf" target="_blank" style="color: #0969da; margin-left: 5px; margin-right: 5px; font-size: 0.9em;">[PDF]</a>
 
-▶ Mapping Investment Promotion Agencies in Eastern Europe, the South Caucasus and Central Asia, OECD Publishing, 2020. <a href="https://github.com/fabioascione/fabioascione.github.io/blob/main/pdf/oecd_Investment-Promotion-in-Eurasia-A-Mapping-of-Investment-Promotion-Agencies-ENG.pdf" style="display: inline-block; padding: 3px 8px; background-color: #f6f8fa; border: 1px solid #d0d7de; color: #24292f; text-decoration: none; border-radius: 6px; font-size: 0.8em; font-weight: 500; margin-left: 10px;">PDF
-</a>
+▶ Mapping Investment Promotion Agencies in Eastern Europe, the South Caucasus and Central Asia, OECD Publishing, 2020. <a href="https://github.com/fabioascione/fabioascione.github.io/blob/main/pdf/oecd_Investment-Promotion-in-Eurasia-A-Mapping-of-Investment-Promotion-Agencies-ENG.pdf" target="_blank" style="color: #0969da; margin-left: 5px; margin-right: 5px; font-size: 0.9em;">[PDF]</a>
 
 ▶ Investment Perspectives in Eastern Partner Countries, OECD Publishing, 2020. <a href="https://github.com/fabioascione/fabioascione.github.io/blob/main/pdf/oecd_Investment-perspectives-in-Eastern-Partner-countries.pdf" target="_blank" style="color: #0969da; margin-left: 5px; margin-right: 5px; font-size: 0.9em;">[PDF]</a>
 
