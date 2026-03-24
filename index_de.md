@@ -60,11 +60,13 @@ Rising current account imbalances around the globe preceded the Great Recession 
   📄
 </a>
 
-▶ Mapping Investment Promotion Agencies in Eastern Europe, the South Caucasus and Central Asia, OECD Publishing, 2020. <a href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2020/09/investment-promotion-in-eurasia_c59d04a4/8e76dbc2-en.pdf" target="_blank">
+▶ Mapping Investment Promotion Agencies in Eastern Europe, the South Caucasus and Central Asia, OECD Publishing, 2020. <a href="https://github.com/fabioascione/fabioascione.github.io/blob/main/pdf/oecd_Investment-Promotion-in-Eurasia-A-Mapping-of-Investment-Promotion-Agencies-ENG.pdf" target="_blank">
   📄
 </a>
 
-▶ Investment Perspectives in Eastern Partner Countries, OECD Publishing, 2020.
+▶ Investment Perspectives in Eastern Partner Countries, OECD Publishing, 2020. <a href="https://github.com/fabioascione/fabioascione.github.io/blob/main/pdf/oecd_Investment-perspectives-in-Eastern-Partner-countries.pdf" target="_blank">
+  📄
+</a>
 
 ▶ Consumption equation for the new model, Backgrounddocument CPB, mimeo, 2019.
 
