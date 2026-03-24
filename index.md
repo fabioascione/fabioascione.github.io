@@ -39,16 +39,10 @@ Limiting climate change while securing decent living standards for all requires 
 
 ### Publications
 
-  <object data="/assets/images/cje_ca-imbalances.pdf" type="application/pdf" width="100%" height="500px">
-    <p>Your browser does not support PDFs. <a href="/assets/images/yourfigure.pdf">Download the PDF</a> instead.</p>
-  </object>
-    <span onclick="toggleAbstract('abstract4')" style="cursor: pointer;">▶ <strong>Out of balance? Revisiting the nexus of income inequality, household debt and current account imbalances after the Great Recession</strong></span> <a href="https://github.com/fabioascione/fabioascione.github.io/blob/main/pdf/cje.pdf" target="_blank" style="color: #0969da; margin-left: 10px; font-size: 0.9em;">[PDF]</a><br>
-    *joint with Matthias Schnetzer*<br>
-    <em>Cambridge Journal of Economics, 2022</em>
-    <div id="abstract4" style="display: none; margin-top: 10px; padding: 10px; background-color: #f8f5f0; border-left: 3px solid #0969da; border-radius: 4px;">
-      Rising current account imbalances around the globe preceded the Great Recession in the late 2000s. These imbalances narrowed significantly during the crisis mainly due to a negative demand shock and plummeting imports in deficit countries. While income inequality and household debt played a pivotal role in current account imbalances prior to the crisis, it is unclear whether these relations still hold when including the post-crisis era. We estimate current account determinants using a panel of 31 OECD countries over 45 years and include measures for functional and personal income distribution as well as household debt. We find a sustained relation between income inequality and current accounts when including the post-crisis period, while the link to household debt diminishes, indicating a change in the debt regime in a number of countries.
-    </div>
-  </div>
+<span onclick="toggleAbstract('abstract4')" style="cursor: pointer;">▶ Out of balance? Revisiting the nexus of income inequality, household debt and current account imbalances after the Great Recession</span><a href="https://github.com/fabioascione/fabioascione.github.io/blob/main/pdf/cje.pdf" target="_blank" style="color: #0969da; margin-left: 5px; margin-right: 5px; font-size: 0.9em;">[PDF]</a> *Cambridge Journal of Economics, 2022* <br>
+*joint with Matthias Schnetzer*<br>
+<div id="abstract4" style="display: none; margin-left: 20px; margin-top: 10px;">
+Rising current account imbalances around the globe preceded the Great Recession in the late 2000s. These imbalances narrowed significantly during the crisis mainly due to a negative demand shock and plummeting imports in deficit countries. While income inequality and household debt played a pivotal role in current account imbalances prior to the crisis, it is unclear whether these relations still hold when including the post-crisis era. We estimate current account determinants using a panel of 31 OECD countries over 45 years and include measures for functional and personal income distribution as well as household debt. We find a sustained relation between income inequality and current accounts when including the post-crisis period, while the link to household debt diminishes, indicating a change in the debt regime in a number of countries.
 </div>
 
 ### Policy research
