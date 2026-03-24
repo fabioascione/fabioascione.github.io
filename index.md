@@ -26,8 +26,8 @@ My current research focuses on the following areas:
 
 <span onclick="toggleAbstract('abstract1')" style="cursor: pointer;">▶ Vertical integration and patterns of divergence in European industries: A long-term input–output analysis</span>  
 *joint with Maria Enrica Virgillito*
-<a href="https://github.com/fabioascione/fabioascione.github.io/blob/main/pdf/vertical-integration_manuscript.pdf" target="_blank" style="display: inline-block; padding: 3px 8px; background-color: #f6f8fa; border: 1px solid #d0d7de; color: #24292f; text-decoration: none; border-radius: 6px; font-size: 0.8em; font-weight: 500; margin-left: 10px;">PDF</a>
-
+<a href="https://github.com/fabioascione/fabioascione.github.io/blob/main/pdf/vertical-integration_manuscript.pdf" target="_blank" style="display: inline-block; padding: 3px 8px; background-color: #f6f8fa; border: 1px solid #d0d7de; color: #24292f; text-decoration: none; border-radius: 6px; font-size: 0.8em; font-weight: 500; margin-left: 10px;">PDF
+</a>
 <div id="abstract1" style="display: none; margin-left: 20px; margin-top: 10px;">
 Against theories that recognize the gains from trade liberalization, this paper asks whether, and if so what extent, economic integration as directly measured through vertically integrated value-added has increased or reduced convergence among European industries. We draw upon new input-output tables and sectoral divergence measures in labor productivity and wages for 14 European countries and 19 sectors since 1970. According to our findings, higher vertical integration has fostered divergence rather than convergence within industries. Lock-in effects coupled with feedback loops and increasing returns are potential mechanisms to explain why the fruits of rising vertical integration are shared unequally within sectors.</div>
 
@@ -37,8 +37,7 @@ Rising corporate saving has figured prominently in the debate about economic ine
 
 <span onclick="toggleAbstract('abstract3')" style="cursor: pointer;">▶ Density, Not Income, Predicts Housing Energy Emission Intensity in Europe</span>
 *joint with Ingram Jaccard, Peter-Paul Pichler, Benedikt Bruckner* 
-<a href="https://gitlab.pik-potsdam.de/pichler/housing-intensity/-/blob/main/paper/ij_housing_manuscript.pdf?ref_type=heads" target="_blank">
-  📄
+<a href="https://gitlab.pik-potsdam.de/pichler/housing-intensity/-/blob/main/paper/ij_housing_manuscript.pdf?ref_type=heads" target="_blank" style="display: inline-block; padding: 3px 8px; background-color: #f6f8fa; border: 1px solid #d0d7de; color: #24292f; text-decoration: none; border-radius: 6px; font-size: 0.8em; font-weight: 500; margin-left: 10px;">PDF
 </a>
 <div id="abstract3" style="display: none; margin-left: 20px; margin-top: 10px;">
 Limiting climate change while securing decent living standards for all requires transforming energy systems and redistributing access to low-carbon energy. Debates about whether such redistribution undermines mitigation often assume that poorer households have higher carbon intensities for basic needs such as housing energy than wealthier groups. However, existing evidence relies mainly on aggregated household carbon footprint data that collapse different energy carriers and heating technologies into broad categories, obscuring which households use high- versus low-carbon energy and how income effects interact with settlement patterns. Here we show that across Europe, settlement density, rather than household income, is the primary determinant of housing energy emission intensity. We use disaggregated household expenditure data for 2010-2020 in 23 European countries, linking spending on electricity and heating to energy balances and greenhouse gas inventories to estimate housing energy carbon intensity by income group and settlement density. We find substantial cross-country variation in the apparent relationship between income and housing emission intensity, including both positive and negative slopes, but in almost all countries urban areas have higher intensities than rural areas. When income and settlement density are modelled jointly within countries, density becomes the stronger predictor and income effects become statistically insignificant, so observed income-intensity patterns mainly reflect spatial income sorting between urban and rural areas rather than income itself. This pattern persists under alternative accounting conventions for biomass, and housing energy intensities are generally comparable to or lower than overall household consumption intensities. These findings alleviate concerns that meeting basic housing energy needs for poorer households must mechanically increase emissions. They shift the policy focus toward how governance allocates scarce low-carbon infrastructure, prioritizing basic needs and reducing energy poverty while phasing out fossil fuel use.</div>
@@ -48,8 +47,7 @@ Limiting climate change while securing decent living standards for all requires 
 <span onclick="toggleAbstract('abstract4')" style="cursor: pointer;">▶ Out of balance? Revisiting the nexus of income inequality, household debt and current account imbalances after the Great Recession</span>
 *joint with Matthias Schnetzer*
 *Cambridge Journal of Economics, 2022*
-<a href="https://github.com/fabioascione/fabioascione.github.io/blob/main/pdf/cje.pdf" target="_blank">
-  📄
+<a href="https://github.com/fabioascione/fabioascione.github.io/blob/main/pdf/cje.pdf" target="_blank" style="display: inline-block; padding: 3px 8px; background-color: #f6f8fa; border: 1px solid #d0d7de; color: #24292f; text-decoration: none; border-radius: 6px; font-size: 0.8em; font-weight: 500; margin-left: 10px;">PDF
 </a>
 <div id="abstract4" style="display: none; margin-left: 20px; margin-top: 10px;">
 Rising current account imbalances around the globe preceded the Great Recession in the late 2000s. These imbalances narrowed significantly during the crisis mainly due to a negative demand shock and plummeting imports in deficit countries. While income inequality and household debt played a pivotal role in current account imbalances prior to the crisis, it is unclear whether these relations still hold when including the post-crisis era. We estimate current account determinants using a panel of 31 OECD countries over 45 years and include measures for functional and personal income distribution as well as household debt. We find a sustained relation between income inequality and current accounts when including the post-crisis period, while the link to household debt diminishes, indicating a change in the debt regime in a number of countries.
@@ -58,16 +56,14 @@ Rising current account imbalances around the globe preceded the Great Recession 
 
 ### Policy research
 
-▶ Ungleich starke Fäden: Die Verflechtung der europäischen Großkonzerne, WZB Mitteilungen - Europa, 2023. <a href="https://bibliothek.wzb.eu/artikel/2023/f-25359.pdf" target="_blank">
-  📄
+▶ Ungleich starke Fäden: Die Verflechtung der europäischen Großkonzerne, WZB Mitteilungen - Europa, 2023. <a href="https://bibliothek.wzb.eu/artikel/2023/f-25359.pdf" target="_blank" style="display: inline-block; padding: 3px 8px; background-color: #f6f8fa; border: 1px solid #d0d7de; color: #24292f; text-decoration: none; border-radius: 6px; font-size: 0.8em; font-weight: 500; margin-left: 10px;">PDF
 </a>
 
-▶ Mapping Investment Promotion Agencies in Eastern Europe, the South Caucasus and Central Asia, OECD Publishing, 2020. <a href="https://github.com/fabioascione/fabioascione.github.io/blob/main/pdf/oecd_Investment-Promotion-in-Eurasia-A-Mapping-of-Investment-Promotion-Agencies-ENG.pdf" target="_blank">
-  📄
+
+▶ Mapping Investment Promotion Agencies in Eastern Europe, the South Caucasus and Central Asia, OECD Publishing, 2020. <a href="https://github.com/fabioascione/fabioascione.github.io/blob/main/pdf/oecd_Investment-Promotion-in-Eurasia-A-Mapping-of-Investment-Promotion-Agencies-ENG.pdf" style="display: inline-block; padding: 3px 8px; background-color: #f6f8fa; border: 1px solid #d0d7de; color: #24292f; text-decoration: none; border-radius: 6px; font-size: 0.8em; font-weight: 500; margin-left: 10px;">PDF
 </a>
 
-▶ Investment Perspectives in Eastern Partner Countries, OECD Publishing, 2020. <a href="https://github.com/fabioascione/fabioascione.github.io/blob/main/pdf/oecd_Investment-perspectives-in-Eastern-Partner-countries.pdf" target="_blank">
-  📄
+▶ Investment Perspectives in Eastern Partner Countries, OECD Publishing, 2020. <a href="https://github.com/fabioascione/fabioascione.github.io/blob/main/pdf/oecd_Investment-perspectives-in-Eastern-Partner-countries.pdf" style="display: inline-block; padding: 3px 8px; background-color: #f6f8fa; border: 1px solid #d0d7de; color: #24292f; text-decoration: none; border-radius: 6px; font-size: 0.8em; font-weight: 500; margin-left: 10px;">PDF
 </a>
 
 ▶ Consumption equation for the new model, Backgrounddocument CPB, mimeo, 2019.
