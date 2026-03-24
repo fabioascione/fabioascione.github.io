@@ -26,7 +26,8 @@ My current research focuses on the following areas:
 
 <span onclick="toggleAbstract('abstract1')" style="cursor: pointer;">▶ Vertical integration and patterns of divergence in European industries: A long-term input–output analysis</span>  
 *joint with Maria Enrica Virgillito*
-<a href="https://github.com/fabioascione/fabioascione.github.io/blob/main/pdf/vertical-integration_manuscript.pdf" target="_blank" style="display: inline-block; padding: 4px 12px; background-color: #e0d5c7; color: #333; text-decoration: none; border-radius: 12px; font-size: 0.85em; margin-left: 10px;">PDF</a>
+<a href="https://github.com/fabioascione/fabioascione.github.io/blob/main/pdf/vertical-integration_manuscript.pdf" target="_blank" style="color: #666; text-decoration: none; font-size: 0.9em; margin-left: 10px;">↗ PDF</a>
+
 
 <div id="abstract1" style="display: none; margin-left: 20px; margin-top: 10px;">
 Against theories that recognize the gains from trade liberalization, this paper asks whether, and if so what extent, economic integration as directly measured through vertically integrated value-added has increased or reduced convergence among European industries. We draw upon new input-output tables and sectoral divergence measures in labor productivity and wages for 14 European countries and 19 sectors since 1970. According to our findings, higher vertical integration has fostered divergence rather than convergence within industries. Lock-in effects coupled with feedback loops and increasing returns are potential mechanisms to explain why the fruits of rising vertical integration are shared unequally within sectors.</div>
