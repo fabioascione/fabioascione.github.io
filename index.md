@@ -46,7 +46,7 @@ Limiting climate change while securing decent living standards for all requires 
 <span onclick="toggleAbstract('abstract4')" style="cursor: pointer;">▶ Out of balance? Revisiting the nexus of income inequality, household debt and current account imbalances after the Great Recession</span>
 *joint with Matthias Schnetzer*
 *Cambridge Journal of Economics, 2022*
-<a href="https://doi.org/10.1093/cje/beab044" target="_blank">
+<a href="https://github.com/fabioascione/fabioascione.github.io/blob/main/pdf/cje.pdf" target="_blank">
   📄
 </a>
 <div id="abstract4" style="display: none; margin-left: 20px; margin-top: 10px;">
