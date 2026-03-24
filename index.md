@@ -26,7 +26,7 @@ My current research focuses on the following areas:
 
 <span onclick="toggleAbstract('abstract1')" style="cursor: pointer;">▶ Vertical integration and patterns of divergence in European industries: A long-term input–output analysis</span>  
 *joint with Maria Enrica Virgillito*
-<a href="https://github.com/fabioascione/fabioascione.github.io/blob/main/pdf/wp_vi.pdf" target="_blank">
+<a href="https://github.com/fabioascione/fabioascione.github.io/blob/main/pdf/vertical-integration_manuscript.pdf" target="_blank">
   📄
 </a>
 <div id="abstract1" style="display: none; margin-left: 20px; margin-top: 10px;">
