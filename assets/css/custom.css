@@ -4,67 +4,18 @@ body {
 
 .wrapper {
   background-color: #f5f0e8 !important;
-}
-
-/* Add more space between sections */
-section h2 {
-  margin-top: 60px;
-  padding-top: 20px;
-}
-
-/* Add space after horizontal rules */
-section hr {
-  margin: 50px 0;
-}
-
-/* Publication item with image */
-.publication-item {
-  display: flex;
-  gap: 20px;
-  margin-bottom: 30px;
-  align-items: flex-start;
-}
-
-.publication-image {
-  flex-shrink: 0;
-  width: 150px;
-  height: 150px;
-  object-fit: cover;
-  border-radius: 8px;
-  border: 1px solid #d0d7de;
-}
-
-.publication-content {
-  flex: 1;
-}
-
-/* For mobile responsiveness */
-@media (max-width: 768px) {
-  .publication-item {
-    flex-direction: column;
-  }
-  
-  .publication-image {
-    width: 100%;
-    height: auto;
-  }
-}
-
-body {
-  background-color: #f5f0e8 !important;
-}
-
-.wrapper {
-  background-color: #f5f0e8 !important;
-  max-width: 1100px !important;  /* Increase from default ~900px */
+  max-width: 1200px !important;  /* Increase overall width */
 }
 
 section {
-  width: 70% !important;  /* Increase main content width */
+  width: 65% !important;  /* Main content width */
+  float: right !important;  /* Keep it on the right */
 }
 
 header {
-  width: 25% !important;  /* Adjust sidebar width accordingly */
+  width: 30% !important;  /* Sidebar width */
+  float: left !important;  /* Keep it on the left */
+  padding-right: 20px !important;  /* Add space between sidebar and content */
 }
 
 /* Add more space between sections */
@@ -82,9 +33,11 @@ section hr {
 @media (max-width: 768px) {
   section {
     width: 100% !important;
+    float: none !important;
   }
   
   header {
     width: 100% !important;
+    float: none !important;
   }
 }
