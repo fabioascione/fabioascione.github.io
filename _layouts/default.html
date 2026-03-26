@@ -12,8 +12,8 @@
     <![endif]-->
   </head>
   <body>
-    <div class="wrapper" style="width: 1200px;">
-      <header style="width: 270px; position: fixed;">
+    <div class="wrapper">
+      <header>
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title }}</a></h1>
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" style="max-width: 100%;" />
@@ -52,8 +52,8 @@
           src="pic.jpg"
           alt="Profile Picture"
           style="
-            width: 100%;
-            max-width: 250px;
+            width: 200px;
+            height: 200px;
             border-radius: 10%;
             object-fit: cover;
             display: block;
@@ -67,7 +67,7 @@
         </div>
         
       </header>
-      <section style="width: 800px; float: right;">
+      <section>
         {{ content }}
       </section>
       <footer>
