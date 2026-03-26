@@ -16,7 +16,7 @@
       <header>
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title }}</a></h1>
         {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo" style="max-width: 100%;" />
+          <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
         <p>{{ site.description | default: site.github.project_tagline }}</p>
         
@@ -48,18 +48,7 @@
         </ul>
         
         <!-- Your image -->
-        <img
-          src="pic.jpg"
-          alt="Profile Picture"
-          style="
-            width: 250px;
-            height: 250px;
-            border-radius: 10%;
-            object-fit: cover;
-            display: block;
-            margin-top: 20px;
-          "
-        >
+        <img src="pic.jpg" alt="Profile Picture">
         
         <!-- Contact -->
         <div style="margin-top: 40px; font-size: 0.85em; color: #999;">
