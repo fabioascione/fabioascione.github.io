@@ -4,24 +4,11 @@ body {
 
 .wrapper {
   background-color: #f5f0e8 !important;
-  max-width: 1200px !important;  /* Increase overall width */
+  max-width: 1000px !important;
 }
 
 section {
-  width: 65% !important;  /* Main content width */
-  float: right !important;  /* Keep it on the right */
-}
-
-header {
-  width: 30% !important;  /* Sidebar width */
-  float: left !important;  /* Keep it on the left */
-  padding-right: 20px !important;  /* Add space between sidebar and content */
-}
-
-/* Constrain sidebar image */
-header img {
-  max-width: 100% !important;
-  height: auto !important;
+  width: 500px !important;
 }
 
 /* Add more space between sections */
@@ -33,17 +20,4 @@ section h2 {
 /* Add space after horizontal rules */
 section hr {
   margin: 50px 0;
-}
-
-/* For mobile responsiveness */
-@media (max-width: 768px) {
-  section {
-    width: 100% !important;
-    float: none !important;
-  }
-  
-  header {
-    width: 100% !important;
-    float: none !important;
-  }
 }
