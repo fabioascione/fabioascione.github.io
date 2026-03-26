@@ -12,64 +12,62 @@
     <![endif]-->
   </head>
   <body>
-    <div class="wrapper">
-      <header>
+    <div class="wrapper" style="width: 1200px;">
+      <header style="width: 270px; position: fixed;">
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title }}</a></h1>
-
         {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo" />
+          <img src="{{site.logo | relative_url}}" alt="Logo" style="max-width: 100%;" />
         {% endif %}
-
         <p>{{ site.description | default: site.github.project_tagline }}</p>
-
-        <!-- Sidebar -->
-        <div id="sidebar">
-<!-- Navigation -->
-<nav>
-  <ul>
-    {% if page.lang == "de" %}
-      <li><a href="#about">Über mich</a></li>
-      <li><a href="#research">Forschung</a></li>
-      <li><a href="#teaching">Lehre</a></li>
-    {% else %}
-      <li><a href="#about">About</a></li>
-      <li><a href="#research">Research</a></li>
-      <li><a href="#teaching">Teaching</a></li>
-    {% endif %}
-  </ul>
-</nav>
-<!-- Language Switcher -->
-<hr style="margin: 20px 0;">
-<ul>
-  {% if page.lang == "de" %}
-    <li><a href="{{ "/" | relative_url }}">English</a></li>
-    <li><strong>Deutsch</strong></li>
-  {% else %}
-    <li><strong>English</strong></li>
-    <li><a href="{{ "/index_de" | relative_url }}">Deutsch</a></li>
-  {% endif %}
-</ul>
-
-          <!-- Your image at the bottom of the sidebar -->
-<img
-  src="pic.jpg"
-  alt="Small Image"
-  style="
-    width: 300px;
-    height: 300px;
-    border-radius: 10%;
-    object-fit: cover;
-    display: block;
-    margin-top: 10px;
-  "
->
-    </div>
+        
+        <!-- Navigation -->
+        <nav>
+          <ul>
+            {% if page.lang == "de" %}
+              <li><a href="#about">Über mich</a></li>
+              <li><a href="#research">Forschung</a></li>
+              <li><a href="#teaching">Lehre</a></li>
+            {% else %}
+              <li><a href="#about">About</a></li>
+              <li><a href="#research">Research</a></li>
+              <li><a href="#teaching">Teaching</a></li>
+            {% endif %}
+          </ul>
+        </nav>
+        
+        <!-- Language Switcher -->
+        <hr style="margin: 20px 0;">
+        <ul>
+          {% if page.lang == "de" %}
+            <li><a href="{{ "/" | relative_url }}">English</a></li>
+            <li><strong>Deutsch</strong></li>
+          {% else %}
+            <li><strong>English</strong></li>
+            <li><a href="{{ "/index_de" | relative_url }}">Deutsch</a></li>
+          {% endif %}
+        </ul>
+        
+        <!-- Your image -->
+        <img
+          src="pic.jpg"
+          alt="Profile Picture"
+          style="
+            width: 100%;
+            max-width: 250px;
+            border-radius: 10%;
+            object-fit: cover;
+            display: block;
+            margin-top: 20px;
+          "
+        >
+        
         <!-- Contact -->
         <div style="margin-top: 40px; font-size: 0.85em; color: #999;">
-          <a href="mailto:fabio.ascione@posteo.net" style="text-decoration: none; color: #999;">Contact</a>
+          <a href="fabio.ascione@posteo.net" style="text-decoration: none; color: #999;">Contact</a>
         </div>
+        
       </header>
-      <section>
+      <section style="width: 800px; float: right;">
         {{ content }}
       </section>
       <footer>
