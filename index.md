@@ -47,6 +47,9 @@ Rising current account imbalances around the globe preceded the Great Recession 
 
 ### Policy research
 
+▶ Methodenhandbuch zur Erstellung eines branchenweiten Treibhausgas-Inventars für die Tourismuswirtschaft, Potsdam-Institut für Klimafolgenforschung und Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare
+Sicherheit, 2026. <a href="https://publications.pik-potsdam.de/rest/items/item_34794_1/component/file_34803/content" target="_blank" style="color: #0969da; margin-left: 5px; margin-right: 5px; font-size: 0.9em;">[PDF]</a> <a href="https://doi.org/10.5281/zenodo.21390464" target="_blank" style="color: #0969da; margin-left: 5px; margin-right: 5px; font-size: 0.9em;">[R Code und Daten]</a>
+
 ▶ Ungleich starke Fäden: Die Verflechtung der europäischen Großkonzerne, WZB Mitteilungen - Europa, 2023. <a href="https://bibliothek.wzb.eu/artikel/2023/f-25359.pdf" target="_blank" style="color: #0969da; margin-left: 5px; margin-right: 5px; font-size: 0.9em;">[PDF]</a>
 
 ▶ Mapping Investment Promotion Agencies in Eastern Europe, the South Caucasus and Central Asia, OECD Publishing, 2020. <a href="https://github.com/fabioascione/fabioascione.github.io/blob/main/pdf/oecd_Investment-Promotion-in-Eurasia-A-Mapping-of-Investment-Promotion-Agencies-ENG.pdf" target="_blank" style="color: #0969da; margin-left: 5px; margin-right: 5px; font-size: 0.9em;">[PDF]</a>
